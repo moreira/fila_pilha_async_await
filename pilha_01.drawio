@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T03:29:23.788Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="BcAe-SnvPa_ObnluUimX" version="24.4.4" type="device">
+<mxfile host="app.diagrams.net" modified="2024-05-23T03:12:15.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nmyk2-0SJRUETKmrJHYf" version="24.4.4" type="device">
   <diagram name="Page-1" id="N95kxnSCE1Vh5nHZLzWz">
     <mxGraphModel dx="915" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -520,7 +520,7 @@
           <mxGeometry x="19.643846153846027" y="7.616153846153793" width="46.72" height="40.62" as="geometry" />
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-242" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="910" y="90" width="100" height="170" as="geometry" />
+          <mxGeometry x="780" y="100" width="100" height="170" as="geometry" />
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-243" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="DmKBOVWt1Hb8cWZtH86P-242">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -540,13 +540,7 @@
             <mxPoint x="100" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmKBOVWt1Hb8cWZtH86P-246" value="anonymous()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="DmKBOVWt1Hb8cWZtH86P-242">
-          <mxGeometry x="10" y="130" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DmKBOVWt1Hb8cWZtH86P-252" value="log()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="DmKBOVWt1Hb8cWZtH86P-242">
-          <mxGeometry x="10" y="90" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DmKBOVWt1Hb8cWZtH86P-250" value="xyz()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-250" value="xpto()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1315" y="230" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-256" value="WebAPI / Node Timers / React-Native" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=30;" vertex="1" parent="1">
@@ -564,7 +558,7 @@
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-261" value="WebAPI / Node Timers / React-Native" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=30;" vertex="1" parent="1">
           <mxGeometry x="900" y="570" width="300" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DmKBOVWt1Hb8cWZtH86P-263" value="disparar método anônimo daqui 50ms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-263" value="disparar método anônimo daqui 0ms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="920" y="620" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-265" value="WebAPI / Node Timers / React-Native" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=220;height=30;" vertex="1" parent="1">
@@ -603,8 +597,8 @@
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-273" value="Saída" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="DmKBOVWt1Hb8cWZtH86P-268">
           <mxGeometry x="-10.66178766699399" y="16.501136363636373" width="67.35858376530841" height="22.847727272727283" as="geometry" />
         </mxCell>
-        <mxCell id="DmKBOVWt1Hb8cWZtH86P-274" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;()=&amp;gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;  console.log(&quot;Mensagem 1&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" vertex="1" parent="1">
-          <mxGeometry x="980" y="1210" width="210" height="60" as="geometry" />
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-274" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;()=&amp;gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;  console.log(&lt;br&gt;   &quot;Mensagem setTimeout&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1190" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-275" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;()=&amp;gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;  console.log(&quot;Mensagem 2&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" vertex="1" parent="1">
           <mxGeometry x="980" y="1300" width="210" height="60" as="geometry" />
@@ -623,6 +617,24 @@
         </mxCell>
         <mxCell id="DmKBOVWt1Hb8cWZtH86P-281" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;log()&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;align=left;" vertex="1" parent="1">
           <mxGeometry x="1230" y="1290" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-252" value="log()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-282" value="then()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-283" value="resolve()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-284" value="resultado da promise" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-285" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;()=&amp;gt;{&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;  console.log(&lt;br&gt;   &quot;Mensagem Promise&quot;);&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#141414&quot;&gt;}&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;align=left;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1190" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DmKBOVWt1Hb8cWZtH86P-246" value="anonymous()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
